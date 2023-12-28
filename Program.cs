@@ -17,6 +17,6 @@ else if (i2 > i1)
 }
 else 
 {
-    Console.WriteLine("os números são iguais, tente de novo")
+    Console.WriteLine("os números são iguais, tente de novo");
 }
  
