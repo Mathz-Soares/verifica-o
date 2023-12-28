@@ -1,0 +1,14 @@
+C:\Users\id148\Desktop\Matheus\exercicio1\bin\Debug\net8.0\exercicio1.exe
+C:\Users\id148\Desktop\Matheus\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
+C:\Users\id148\Desktop\Matheus\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
+C:\Users\id148\Desktop\Matheus\exercicio1\bin\Debug\net8.0\exercicio1.dll
+C:\Users\id148\Desktop\Matheus\exercicio1\bin\Debug\net8.0\exercicio1.pdb
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfo.cs
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.dll
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\refint\exercicio1.dll
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.pdb
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
+C:\Users\id148\Desktop\Matheus\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll
